@@ -1,9 +1,9 @@
 ## Hi there 👋 I am Qi Wang 
-
 ![](https://img.shields.io/badge/Use-Python-0076ab?style=flat&logo=Python&logoColor=ffffff)
 ![](https://img.shields.io/badge/Learn-C++-blueviolet?style=flat&logo=Visual%20Studio%20Code&logoColor=ffffff)
 ![](https://img.shields.io/badge/OS-Linux-orange?style=flat&logo=Linux&logoColor=ffffff)
 
+[![GScholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=OwW5XfMAAAAJ)
 <!--
 <details>
 <summary>📈 My GitHub Stats</summary>
