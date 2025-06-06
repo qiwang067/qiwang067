@@ -5,7 +5,7 @@
 
 [![GScholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=OwW5XfMAAAAJ)
 
-## Region of Interests
+## Research Interests
 - Visual reinforcement learning
 - World models
 - Offline reinforcement learning
