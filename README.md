@@ -3,7 +3,8 @@
 ![](https://img.shields.io/badge/Learn-C++-blueviolet?style=flat&logo=Visual%20Studio%20Code&logoColor=ffffff)
 ![](https://img.shields.io/badge/OS-Linux-orange?style=flat&logo=Linux&logoColor=ffffff)
 
-[![GScholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=OwW5XfMAAAAJ)
+[![GScholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=OwW5XfMAAAAJ) <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fqiwang067.github.io%2F"><img src="https://api.visitorbadge.io/api/combined?path=https%3A%2F%2Fqiwang067.github.io%2F&labelColor=%232ccce4&countColor=%230158f9" /></a>
+</p>
 
 **Research Interests**: Visual reinforcement learning, World models, Offline reinforcement learning
 
