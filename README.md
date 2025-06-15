@@ -1,4 +1,6 @@
 ## Hi there 👋 I am Qi Wang 
+<img alt="GitHub User's stars" src="https://img.shields.io/github/stars/qiwang067"><a href="https://github.com/qiwang067?tab=followers" target="_blank" style="color:#224B8D"><span style="vertical-align: middle;"><img alt="GitHub followers" src="https://img.shields.io/github/followers/qiwang067"></span></a><a href="https://x.com/qiwang067" target="_blank" style="color:#224B8D"><span style="vertical-align: middle;"><img alt="X (formerly Twitter) Follow" src="https://img.shields.io/twitter/follow/qiwang067"></span></a>
+
 ![](https://img.shields.io/badge/Use-Python-0076ab?style=flat&logo=Python&logoColor=ffffff)
 ![](https://img.shields.io/badge/Learn-C++-blueviolet?style=flat&logo=Visual%20Studio%20Code&logoColor=ffffff)
 ![](https://img.shields.io/badge/OS-Linux-orange?style=flat&logo=Linux&logoColor=ffffff)
