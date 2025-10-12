@@ -20,7 +20,7 @@
 <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fqiwang067.github.io%2F"><img src="https://api.visitorbadge.io/api/combined?path=https%3A%2F%2Fqiwang067.github.io%2F&labelColor=%232ccce4&countColor=%230158f9" /></a>
 </p>
 
-**Research Interests**: Visual reinforcement learning, World models, Offline reinforcement learning
+**Research Interests**: Reinforcement learning, World models
 
 <!--
 [![GScholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=OwW5XfMAAAAJ) <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fqiwang067.github.io%2F"><img src="https://api.visitorbadge.io/api/combined?path=https%3A%2F%2Fqiwang067.github.io%2F&labelColor=%232ccce4&countColor=%230158f9" /></a>
